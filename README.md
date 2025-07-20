@@ -54,6 +54,7 @@ StudentManagementSystem/
 3. Compile the Java files:
 
 ```javac *.java```
+
 4. Run the application:
 
 ```java Main```
